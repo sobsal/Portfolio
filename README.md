@@ -1,7 +1,5 @@
 # Portfolio
 #
-#
-#
 # Table of Contents:
 # 1. About Me
 # 2. Professional Goals
